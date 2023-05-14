@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789996834261",
+    "project_id": "newswave-38a87",
+    "storage_bucket": "newswave-38a87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789996834261:android:c3b770e914e977662fc15c",
+        "android_client_info": {
+          "package_name": "com.example.newswave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789996834261-q9ak0codtlbmm7behtm7be0soddkaa90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnrJV1smz2DWzyJZYKaeqFo1YtlHN6diY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789996834261-q9ak0codtlbmm7behtm7be0soddkaa90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
